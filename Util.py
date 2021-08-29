@@ -21,7 +21,6 @@ class Util:
         print("------ 1 : Play -----")
         print("------ 2 : Exit -----")
         print("*********************")
-        print("Current Score: " + str(score))
 
     # Displaying details of movie
     def displayMovieFull(self, m):
